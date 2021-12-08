@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular and Node JS**
 
-- 👨‍💻 All of my projects are available at ["portafolio"]("https://jonathan-meichtry.web.app/home")
+- 👨‍💻 All of my projects are available at <a href="https://jonathan-meichtry.web.app/home" target="_blank">Portfolio</a>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center"> 
